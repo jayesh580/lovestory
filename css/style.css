@@ -81,7 +81,8 @@ body {
 
 @font-face {
 	font-family: myFnth;
-	src: url(font/FuturaMediumBT[1].ttf);
+	/* src: url(font/FuturaMediumBT[1].ttf); */
+	src: url(font/FUTRFW.TTF);
   }
   
   .fnth{
@@ -91,7 +92,8 @@ body {
 
   @font-face {
 	font-family: myFntsh;
-	src: url(font/FUTRFW.TTF);
+	src: url(font/FuturaMediumBT[1].ttf);
+	/* src: url(font/FUTRFW.TTF); */
   }
 
   .fntsh{
